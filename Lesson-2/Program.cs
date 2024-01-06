@@ -5,6 +5,7 @@ using Lessons_2.Dal.Repositories.Interfaces;
 
 namespace Lessons_2;
 
+
 public class Program
 {
     public static void Main(string[] args)
